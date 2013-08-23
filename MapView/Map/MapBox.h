@@ -51,3 +51,5 @@
 #import "RMTileMillSource.h"
 #import "RMUserLocation.h"
 #import "RMUserTrackingBarButtonItem.h"
+#import "RMWMS.h"
+#import "RMWMSSource.h"
